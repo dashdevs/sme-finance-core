@@ -67,4 +67,9 @@
         <module>sme-finance-core-it-tests</module>
     </modules>
 
+    <scm>
+        <tag>scm-finance-core</tag>
+        <developerConnection>scm:git:https://github.com/dashdevs/sme-finance-core.git</developerConnection>
+    </scm>
+
 </project>
