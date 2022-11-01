@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+  com.sme.finance.core.it.container.PostgreSqlTestContainerContextCustomizerFactory
